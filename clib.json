@@ -1,0 +1,13 @@
+{
+  "name": "string_tree",
+  "version": "0.1.0",
+  "repo": "goodcleanfun/string_tree",
+  "description": "String tree stores a graph of permutations of an array of strings compactly",
+  "keywords": ["vector", "array", "string"],
+  "license": "MIT",
+  "dependencies": {
+    "goodcleanfun/num_arrays": "*",
+    "goodcleanfun/cstring_array": "*"
+  },
+  "src": ["src/string_tree.h", "src/string_tree.c"]
+}
